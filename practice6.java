@@ -1,3 +1,4 @@
+// Code reviewed by @professorgordon
 package week4Practice;
 import java.util.Scanner;
 public class practice6 {
